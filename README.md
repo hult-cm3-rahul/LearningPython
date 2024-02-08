@@ -11,3 +11,5 @@ Third Steps: Simple Data Structures: [![Open In Colab](https://colab.research.go
 Fourth Steps: Functional Programming: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hult-cm3-rahul/LearningPython/blob/main/FourthSteps-Functional.ipynb)
 
 Fifth Steps: Object Oriented Programming: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hult-cm3-rahul/LearningPython/blob/main/FifthSteps-Classes.ipynb)
+
+Python Tour: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hult-cm3-rahul/LearningPython/blob/main/PythonTour.ipynb)
