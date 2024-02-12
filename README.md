@@ -14,4 +14,6 @@ Fifth Steps: Object Oriented Programming: [![Open In Colab](https://colab.resear
 
 Python Tour: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hult-cm3-rahul/LearningPython/blob/main/PythonTour.ipynb)
 
+Exercise parsing Shakespeare: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hult-cm3-rahul/LearningPython/blob/main/Exercise-Shakespeare.ipynb)
+
 Sixth Steps: Ducks: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hult-cm3-rahul/LearningPython/blob/main/Sixthsteps-Ducks.ipynb)
