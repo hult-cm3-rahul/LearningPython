@@ -2,6 +2,8 @@
 
 Our first steps can be accessed by clicking here:
 
+Our textbook is [Think Python](https://greenteapress.com/thinkpython2/html/index.html)
+
 First Steps: Python Fundamentals: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hult-cm3-rahul/LearningPython/blob/main/FirstSteps.ipynb)
 
 Second Steps: Functions: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hult-cm3-rahul/LearningPython/blob/main/SecondSteps-Functions.ipynb)
