@@ -19,3 +19,5 @@ Python Tour: [![Open In Colab](https://colab.research.google.com/assets/colab-ba
 Exercise parsing Shakespeare: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hult-cm3-rahul/LearningPython/blob/main/Exercise-Shakespeare.ipynb)
 
 Sixth Steps: Ducks: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hult-cm3-rahul/LearningPython/blob/main/Sixthsteps-Ducks.ipynb)
+
+SQL: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hult-cm3-rahul/LearningPython/blob/main/SQL.ipynb)
