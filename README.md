@@ -21,3 +21,6 @@ Exercise parsing Shakespeare: [![Open In Colab](https://colab.research.google.co
 Sixth Steps: Ducks: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hult-cm3-rahul/LearningPython/blob/main/Sixthsteps-Ducks.ipynb)
 
 SQL: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hult-cm3-rahul/LearningPython/blob/main/SQL.ipynb)
+
+Seventh Steps: Data Engineering and Functional Programming
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hult-cm3-rahul/LearningPython/blob/main/SeventhSteps-Functional-DE.ipynb)
