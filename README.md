@@ -25,5 +25,11 @@ SQL: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 Seventh Steps: Data Engineering and Functional Programming
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hult-cm3-rahul/LearningPython/blob/main/SeventhSteps-Functional-DE.ipynb)
 
- Eighth Steps: Plotting, numpy and Pandas
+Eighth Steps: Plotting, numpy and Pandas
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hult-cm3-rahul/LearningPython/blob/main/EighthSteps-Pandas-Numpy.ipynb)
+
+Training MNIST
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hult-cm3-rahul/LearningPython/blob/main/MNIST-MLP-Dropout.ipynb)
+
+Microsoft Phi
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hult-cm3-rahul/LearningPython/blob/main/microsoft_phi_2.ipynb)
