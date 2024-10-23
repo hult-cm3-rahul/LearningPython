@@ -36,3 +36,6 @@ Microsoft Phi
 
 ConsistentHashing
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hult-cm3-rahul/LearningPython/blob/main/consistenthashing.ipynb)
+
+Stupidlang
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hult-cm3-rahul/LearningPython/blob/main/stupidlang.ipynb)
